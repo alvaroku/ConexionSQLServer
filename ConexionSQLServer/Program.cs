@@ -1,7 +1,4 @@
 ﻿using ConexionSQLServer.App;
-using ConexionSQLServer.Entidades;
-using System;
-using System.Collections.Generic;
 
 namespace ConexionSQLServer
 {
